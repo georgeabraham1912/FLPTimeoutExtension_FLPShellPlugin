@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"FLPTimeoutExtension_FLPShellPlugin": {
+			"component": "com.timeoutextension.flp.shell.plugin",
+			"url": "../../../../../"
+		}
+	}
+}
